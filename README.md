@@ -3,7 +3,7 @@
 Follow this instructions to run this project. 
 
 1) First you need to download all these files 
-2) make a folder "AccountApp" and paste all the files you downloaded from github
+2) make a folder "AccountApp". Then, go inside the folder you just downloaded and copy and paste everything inside the AccountApp.
 3) download xampp
 4) copy the AccountApp folder and paste it in the "htdocs" folder inside xampp folder.
 5) open xampp controller and start both "Apache" and "Mysql"
